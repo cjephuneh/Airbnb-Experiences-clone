@@ -37,3 +37,32 @@ section{
 .hero--header{
   margin-bottom: 16px;
 }
+
+.gray{
+  color: #918E9B;
+}
+
+.bolder{
+  font-weight: bold;
+}
+.card{
+  width: 175px;
+  font-size:12px;
+}
+
+.sport--logo{
+  width: 100px;
+  border-radius: 9px;
+}
+
+.card--stats{
+  display:flex;
+  align-items: center;
+
+}
+
+.star--logo{
+  height: 14px;
+
+}
+
