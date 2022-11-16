@@ -19,6 +19,34 @@ function App() {
 
       />
 
+      <Card 
+        img='sports.png'
+        rating='5.0'
+        reviewCount={6}
+        country='USA'
+        tittle='Life lessons with Katie Zafer'
+        price={136}
+
+      />
+      <Card 
+        img='sports.png'
+        rating='5.0'
+        reviewCount={6}
+        country='USA'
+        tittle='Life lessons with Katie Zafer'
+        price={136}
+
+      />
+      <Card 
+        img='sports.png'
+        rating='5.0'
+        reviewCount={6}
+        country='USA'
+        tittle='Life lessons with Katie Zafer'
+        price={136}
+
+      />
+
     </>
 
   )
