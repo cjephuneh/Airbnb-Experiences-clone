@@ -25,11 +25,8 @@ section{
   padding: 20px;
 }
 
-/*.hero--logo{
-  max-width: 400px;
-  align-self:center;
-}
-*/
+
+
 .hero--text{
   margin-top: 0;
 }
@@ -48,7 +45,16 @@ section{
 }
 .card{
   width: 175px;
-  font-size:12px; 
+  font-size:12px;
+  display: flex; 
+  flex: 0 0 auto;
+  flex-direction: column;
+
+}
+
+section {
+  padding: 20px;
+  display:flex;
 }
 
 .sport--logo{
